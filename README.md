@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bryson-Mazzarello
 - 👀 I’m interested in programming as a whole, but mostly game developement.
-- 🌱 I’m currently learning PHP + MDL
+- 🌱 I’m currently learning PHP + HTML
 - 💞️ I’m looking to collaborate on anything, I'm pretty bad at coding.
 - 📫 How to reach me 614-716-3220
 - 😄 Pronouns: He/Him
