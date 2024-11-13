@@ -1,5 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 - 👋 Hi, I’m @Bryson-Mazzarello
-- 🧠 Languages: Python
+<i class="devicon-devicon-plain">Giggity Giggity Goo</i>
 - 👀 I’m interested in programming as a whole, but mostly game developement.
 - 🌱 I’m currently learning PHP + HTML
 - 💞️ I’m looking to collaborate on anything, I'm pretty bad at coding.
