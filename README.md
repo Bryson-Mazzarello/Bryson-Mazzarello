@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 - 👋 Hi, I’m @Bryson-Mazzarello
-<i class="devicon-devicon-plain">Giggity Giggity Goo</i>
+Python	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - 👀 I’m interested in programming as a whole, but mostly game developement.
 - 🌱 I’m currently learning PHP + HTML
 - 💞️ I’m looking to collaborate on anything, I'm pretty bad at coding.
