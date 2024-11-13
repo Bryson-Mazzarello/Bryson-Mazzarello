@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Bryson-Mazzarello
+- 🧠 Languages: Python
 - 👀 I’m interested in programming as a whole, but mostly game developement.
 - 🌱 I’m currently learning PHP + HTML
 - 💞️ I’m looking to collaborate on anything, I'm pretty bad at coding.
